@@ -1,0 +1,130 @@
+fileFormatVersion: 2
+guid: f922c2c6d58475c4ea5340e7e6ba061f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 2D_Map
+    100002: Buildings
+    100004: Circle
+    100006: //RootNode
+    100008: Street
+    400000: 2D_Map
+    400002: Buildings
+    400004: Circle
+    400006: //RootNode
+    400008: Street
+    2100000: unnamed
+    2100002: roofterrain_Buildings__roofterrain_png
+    2100004: buildings__London_wallDiffuse_png
+    2100006: leadenhall_Buildings__leadenhall_png
+    2100008: bloomberg01_Buildings__bloomberg01_png
+    2100010: walbrook_Buildings__walbrook_png
+    2100012: tower42_Buildings__tower42_png
+    2100014: fenchurch_Buildings__fenchurch_png
+    2100016: gherkin_Buildings__gherkin_png
+    2100018: Mapa_con_Puntos__Mapa_con_Puntos_png
+    2100020: SideWalkMaterial
+    2100022: AsphaltMaterial__post-53-1139607373_jpg_001
+    2100024: SideWalkBorderMaterial
+    2100026: Base
+    2100028: SideWalkMaterial__SideWalk_jpg
+    2100030: AsphaltMaterial__Asphalt
+    2100032: SideWalkBorderMaterial__SideWalkBorder_jpg
+    2300000: 2D_Map
+    2300002: Buildings
+    2300004: Circle
+    2300006: Street
+    3300000: 2D_Map
+    3300002: Buildings
+    3300004: Circle
+    3300006: Street
+    4300000: Circle
+    4300002: Buildings
+    4300004: 2D_Map
+    4300006: Street
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
