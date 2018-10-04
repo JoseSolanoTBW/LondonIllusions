@@ -61,54 +61,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\DiscoveryPack_Demo\_Sources\Scripts\AddPKFxFXComponent.cs" />
-    <Compile Include="Assets\DiscoveryPack_Demo\_Sources\Scripts\BounceDie.cs" />
-    <Compile Include="Assets\DiscoveryPack_Demo\_Sources\Scripts\CamZoom.cs" />
-    <Compile Include="Assets\DiscoveryPack_Demo\_Sources\Scripts\FPSCam.cs" />
-    <Compile Include="Assets\DiscoveryPack_Demo\_Sources\Scripts\PointClickSpawn.cs" />
-    <Compile Include="Assets\DiscoveryPack_Demo\_Sources\Scripts\RomanCandle.cs" />
-    <Compile Include="Assets\DiscoveryPack_Demo\_Sources\Scripts\RootyTootyPointNShooty.cs" />
-    <Compile Include="Assets\DiscoveryPack_Demo\_Sources\Scripts\TimedSuicide.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlow.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlowCameraOrbit.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlowCreateFromSplines.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlowEffect.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlowFrame.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlowMatchShape.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlowMovingSource.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlowParticle.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlowParticleMoving.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlowPos.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlowRBody.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlowSample.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlowSmokeGun.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlowSpline.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlowTaskInfo.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaFlowTest.cs" />
-    <Compile Include="Assets\Mega-Fiers\MegaFlow\MegaSoftPhysics.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaBox3.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaControllers\MegaBezFloatKeyControl.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaControllers\MegaBezVector3KeyControl.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaControllers\MegaControl.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaMatrix.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaKML.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaPathFollow.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShape.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeArc.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeCircle.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeEllipse.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeHelix.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeLightMapWindow.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeLine.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeNGon.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeOSM.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeRectangle.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeStar.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeSVG.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaShape\MegaShapeSXL.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaUtils.cs" />
-    <Compile Include="Assets\Mega-Fiers\Scripts\MegaFiers\MegaXMLReader.cs" />
-    <Compile Include="Assets\MouseOrbitImproved.cs" />
     <Compile Include="Assets\Oculus\VR\Scripts\Composition\OVRCameraComposition.cs" />
     <Compile Include="Assets\Oculus\VR\Scripts\Composition\OVRComposition.cs" />
     <Compile Include="Assets\Oculus\VR\Scripts\Composition\OVRCompositionUtil.cs" />
@@ -157,6 +109,8 @@
     <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRScreenFade.cs" />
     <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRTrackedRemote.cs" />
     <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRWaitCursor.cs" />
+    <Compile Include="Assets\Scripts\RotateWithMouseOnDesktop.cs" />
+    <Compile Include="Assets\Scripts\Sun.cs" />
     <Compile Include="Assets\Scripts\Teleporter.cs" />
     <Compile Include="Assets\Wrld\API\Api.cs" />
     <Compile Include="Assets\Wrld\API\WrldMap.cs" />
@@ -327,19 +281,15 @@
     <None Include="Assets\Wrld\Shaders\Highlight.shader" />
     <None Include="Assets\Wrld\Version\ShadowConfig.txt" />
     <None Include="Assets\Wrld\3rd Party Licenses\libs\libktx.txt" />
-    <None Include="Assets\DiscoveryPack_Demo\_README_FIRST.txt" />
     <None Include="Assets\Oculus\VR\Resources\OVRMRUnlitTransparent.shader" />
     <None Include="Assets\Wrld\3rd Party Licenses\fonts\IPA_font.txt" />
-    <None Include="Assets\PopcornFX\Resources\PkFxDepthCopy.shader" />
     <None Include="Assets\Oculus\VR\Resources\OVRMRChromaKey.cginc" />
-    <None Include="Assets\Mega-Fiers\MegaFlow\ReadMe.txt" />
     <None Include="Assets\Wrld\3rd Party Licenses\libs\mt19937ar.c.txt" />
     <None Include="Assets\Wrld\AssetData\Windows\FrankBold50_A8_icons.fnt" />
     <None Include="Assets\Wrld\3rd Party Licenses\libs\zlib.txt" />
     <None Include="Assets\Oculus\VR\Shaders\OVRColorRampAlpha.shader" />
     <None Include="Assets\Wrld\3rd Party Licenses\libs\pthread.txt" />
     <None Include="Assets\FbxExporters\RELEASE_NOTES.txt" />
-    <None Include="Assets\PopcornFX\README.txt" />
     <None Include="Assets\Oculus\VR\Resources\Cubemap Blit.shader" />
     <None Include="Assets\Wrld\3rd Party Licenses\libs\poly2tri.txt" />
     <None Include="Assets\Wrld\3rd Party Licenses\libs\ANGLE.txt" />
@@ -354,8 +304,6 @@
     <None Include="Assets\Oculus\VR\Resources\OVRMRCameraFrameLit.shader" />
     <None Include="Assets\Wrld\3rd Party Licenses\libs\httpxx.txt" />
     <None Include="Assets\Wrld\Shaders\StencilWrite.shader" />
-    <None Include="Assets\PopcornFX\Resources\PKFxDistQuickDirtyBlurEffect.shader" />
-    <None Include="Assets\Mega-Fiers\MegaFlow\Materials\MFCellShader.shader" />
     <None Include="Assets\Oculus\VR\Resources\Underlay Transparent Occluder.shader" />
     <None Include="Assets\FbxExporters\README.txt" />
     <None Include="Assets\Wrld\3rd Party Licenses\fonts\OpenSans.txt" />
@@ -369,8 +317,6 @@
     <None Include="Assets\Oculus\VR\Resources\OVRMRClipPlane.shader" />
     <None Include="Assets\Wrld\3rd Party Licenses\libs\libcares.txt" />
     <None Include="Assets\FbxExporters\LICENSE.txt" />
-    <None Include="Assets\PopcornFX\Resources\PKFxDepthCopyToColor.shader" />
-    <None Include="Assets\PopcornFX\Resources\PKFxDistortionEffect.shader" />
     <None Include="Assets\Wrld\Version\WelcomeConfig.txt" />
     <None Include="Assets\Wrld\AssetData\iOS\FrankBold50_A8_icons.fnt" />
     <None Include="Assets\Oculus\VR\Resources\Underlay Impostor.shader" />
@@ -382,16 +328,16 @@
     <None Include="Assets\Wrld\3rd Party Licenses\libs\libcurl.txt" />
     <None Include="Assets\Oculus\VR\Plugins\placeholder.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Heiner/Compartido/Midnight Illusions/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/hmorales/Documents/Proyectos/LondonIllusions/Midnight Illusions/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Heiner/Compartido/Midnight Illusions/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/hmorales/Documents/Proyectos/LondonIllusions/Midnight Illusions/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Heiner/Compartido/Midnight Illusions/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/hmorales/Documents/Proyectos/LondonIllusions/Midnight Illusions/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Heiner/Compartido/Midnight Illusions/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/hmorales/Documents/Proyectos/LondonIllusions/Midnight Illusions/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -589,22 +535,13 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityFbxPrefab">
-      <HintPath>C:/Users/Heiner/Compartido/Midnight Illusions/Assets/FbxExporters/UnityFbxPrefab.dll</HintPath>
-    </Reference>
-    <Reference Include="PKFx-Helper">
-      <HintPath>C:/Users/Heiner/Compartido/Midnight Illusions/Assets/PopcornFX/Scripts/PKFx-Helper.dll</HintPath>
-    </Reference>
-    <Reference Include="PKFx-Runtime">
-      <HintPath>C:/Users/Heiner/Compartido/Midnight Illusions/Assets/PopcornFX/Scripts/PKFx-Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="PKFxManager">
-      <HintPath>C:/Users/Heiner/Compartido/Midnight Illusions/Assets/PopcornFX/Scripts/PKFxManager.dll</HintPath>
+      <HintPath>C:/Users/hmorales/Documents/Proyectos/LondonIllusions/Midnight Illusions/Assets/FbxExporters/UnityFbxPrefab.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
-      <HintPath>C:/Users/Heiner/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+      <HintPath>C:/Users/hmorales/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.StandardEvents">
-      <HintPath>C:/Users/Heiner/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/hmorales/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>

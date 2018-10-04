@@ -46,4 +46,7 @@ QualitySettings:
     - BlackBerry
     - Windows Store Apps
     - WP8
-  m_PerPlatformDefaultQuality: {}
+  m_PerPlatformDefaultQuality:
+    Android: 0
+    Standalone: 0
+    WebGL: 0

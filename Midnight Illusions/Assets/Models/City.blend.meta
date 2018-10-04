@@ -30,6 +30,7 @@ ModelImporter:
     2100028: SideWalkMaterial__SideWalk_jpg
     2100030: AsphaltMaterial__Asphalt
     2100032: SideWalkBorderMaterial__SideWalkBorder_jpg
+    2100034: Base__roofterrain_png
     2300000: 2D_Map
     2300002: Buildings
     2300004: Circle
