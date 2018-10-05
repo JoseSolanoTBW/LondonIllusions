@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: 2869c66e822baa941bb52b0e6ec3dfdf, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 53412155bc1016547b1a77b2333c0380, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.22706708, g: 0.2542963, b: 0.32542223, a: 1}
+  m_IndirectSpecularColor: {r: 0.58822703, g: 0.6860993, b: 0.7381385, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -548,7 +548,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1124961628}
-  m_LocalRotation: {x: 0.23112924, y: 0.6934155, z: -0.25282863, w: 0.63390213}
+  m_LocalRotation: {x: -0.12503694, y: 0.7224422, z: 0.13555542, w: 0.6663841}
   m_LocalPosition: {x: -116.536026, y: 10.23, z: -4.399448}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -565,7 +565,7 @@ Light:
   serializedVersion: 8
   m_Type: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 1
+  m_Intensity: 0
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -605,8 +605,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   longitude: 51.513416
   latitude: -0.084063
-  hour: 23
-  minutes: 3
+  hour: 18
+  minutes: 57
   timeSpeed: 1
   frameSteps: 1
 --- !u!1001 &1252548966
@@ -1030,17 +1030,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c78bb650e19367e45a5fe2414652031a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  target: {fileID: 0}
-  distance: 15
-  xSpeed: 120
-  ySpeed: 120
-  yMinLimit: -20
-  yMaxLimit: 80
-  distanceMin: 0.5
-  distanceMax: 500
-  rigidbody: {fileID: 0}
-  x: 0
-  y: 0
 --- !u!114 &2006647825
 MonoBehaviour:
   m_ObjectHideFlags: 0

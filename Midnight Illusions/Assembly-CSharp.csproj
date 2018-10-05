@@ -276,8 +276,8 @@
     <Compile Include="Assets\Wrld\VRExample\SimpleScene\Scripts\RotateObject.cs" />
     <None Include="Assets\Wrld\3rd Party Licenses\libs\md5.cpp.txt" />
     <None Include="Assets\Wrld\3rd Party Licenses\libs\rapidjson.txt" />
-    <None Include="Assets\StreamingAssets\WrldResources\Resources\FrankBold50_A8_icons.fnt" />
     <None Include="Assets\Wrld\3rd Party Licenses\libs\libcrypto.txt" />
+    <None Include="Assets\StreamingAssets\WrldResources\v0.7.1019.txt" />
     <None Include="Assets\Wrld\Shaders\Highlight.shader" />
     <None Include="Assets\Wrld\Version\ShadowConfig.txt" />
     <None Include="Assets\Wrld\3rd Party Licenses\libs\libktx.txt" />
@@ -315,10 +315,12 @@
     <None Include="Assets\Wrld\3rd Party Licenses\libs\libpng.txt" />
     <None Include="Assets\Oculus\VR\Resources\OVRMRCameraFrame.shader" />
     <None Include="Assets\Oculus\VR\Resources\OVRMRClipPlane.shader" />
+    <None Include="Assets\StreamingAssets\WrldResources\WelcomeConfig.txt" />
     <None Include="Assets\Wrld\3rd Party Licenses\libs\libcares.txt" />
     <None Include="Assets\FbxExporters\LICENSE.txt" />
     <None Include="Assets\Wrld\Version\WelcomeConfig.txt" />
     <None Include="Assets\Wrld\AssetData\iOS\FrankBold50_A8_icons.fnt" />
+    <None Include="Assets\StreamingAssets\WrldResources\ShadowConfig.txt" />
     <None Include="Assets\Oculus\VR\Resources\Underlay Impostor.shader" />
     <None Include="Assets\Wrld\Shaders\UnityVCShadow.cginc" />
     <None Include="Assets\Wrld\3rd Party Licenses\libs\libjpeg-turbo.txt" />
