@@ -46,7 +46,7 @@ PlayerSettings:
   defaultScreenHeight: 768
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
-  m_StereoRenderingPath: 1
+  m_StereoRenderingPath: 0
   m_ActiveColorSpace: 0
   m_MTRendering: 1
   m_StackTraceTypes: 010000000100000001000000010000000100000001000000
@@ -252,7 +252,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 1
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: C:/Users/hmorales/Documents/Proyectos/LondonIllusions/Midnight
+  AndroidKeystoreName: C:/Users/Heiner/Documents/Proyectos/LondonIllusions/Midnight
     Illusions/user.keystore
   AndroidKeyaliasName: midnight
   AndroidBuildApkPerCpuArchitecture: 0
@@ -386,8 +386,8 @@ PlayerSettings:
   - m_BuildTarget: Android
     m_Enabled: 1
     m_Devices:
-    - Oculus
     - cardboard
+    - Oculus
   - m_BuildTarget: Metro
     m_Enabled: 1
     m_Devices:

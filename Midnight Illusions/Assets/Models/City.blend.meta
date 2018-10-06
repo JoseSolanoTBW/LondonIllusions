@@ -8,11 +8,33 @@ ModelImporter:
     100004: Circle
     100006: //RootNode
     100008: Street
+    100010: Cylinder
+    100012: Cylinder_001
+    100014: Cylinder_002
+    100016: Cylinder_003
+    100018: Empty
+    100020: 1
+    100022: 2
+    100024: 3
+    100026: 4
+    100028: Coordinates
+    100030: Buildings_7_20223323222133_buildings_01_INDEX0
     400000: 2D_Map
     400002: Buildings
     400004: Circle
     400006: //RootNode
     400008: Street
+    400010: Cylinder
+    400012: Cylinder_001
+    400014: Cylinder_002
+    400016: Cylinder_003
+    400018: Empty
+    400020: 1
+    400022: 2
+    400024: 3
+    400026: 4
+    400028: Coordinates
+    400030: Buildings_7_20223323222133_buildings_01_INDEX0
     2100000: unnamed
     2100002: roofterrain_Buildings__roofterrain_png
     2100004: buildings__London_wallDiffuse_png
@@ -31,18 +53,51 @@ ModelImporter:
     2100030: AsphaltMaterial__Asphalt
     2100032: SideWalkBorderMaterial__SideWalkBorder_jpg
     2100034: Base__roofterrain_png
+    2100036: SideWalkMaterial__roofterrain_png
+    2100038: Material
+    2100040: buildings_01__London_wallDiffuse_png
+    2100042: buildings_01_001__London_wallDiffuse_png
+    2100044: landmark_gb_ldn_fenchurch_Buildings_4_20223323222133_landmark_g__fenchurch_png
+    2100046: buildings_01_002__London_wallDiffuse_png
     2300000: 2D_Map
     2300002: Buildings
     2300004: Circle
     2300006: Street
+    2300008: Cylinder
+    2300010: Cylinder_001
+    2300012: Cylinder_002
+    2300014: Cylinder_003
+    2300016: 1
+    2300018: 2
+    2300020: 3
+    2300022: 4
+    2300024: Buildings_7_20223323222133_buildings_01_INDEX0
     3300000: 2D_Map
     3300002: Buildings
     3300004: Circle
     3300006: Street
+    3300008: Cylinder
+    3300010: Cylinder_001
+    3300012: Cylinder_002
+    3300014: Cylinder_003
+    3300016: 1
+    3300018: 2
+    3300020: 3
+    3300022: 4
+    3300024: Buildings_7_20223323222133_buildings_01_INDEX0
     4300000: Circle
     4300002: Buildings
     4300004: 2D_Map
     4300006: Street
+    4300008: Cylinder_003
+    4300010: Cylinder_002
+    4300012: Cylinder_001
+    4300014: Cylinder
+    4300016: 4
+    4300018: 3
+    4300020: 2
+    4300022: 1
+    4300024: Buildings_7_20223323222133_buildings_01_INDEX0
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs
