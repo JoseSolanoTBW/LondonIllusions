@@ -109,9 +109,12 @@
     <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRScreenFade.cs" />
     <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRTrackedRemote.cs" />
     <Compile Include="Assets\Oculus\VR\Scripts\Util\OVRWaitCursor.cs" />
+    <Compile Include="Assets\Scripts\LineStrip.cs" />
     <Compile Include="Assets\Scripts\RotateWithMouseOnDesktop.cs" />
     <Compile Include="Assets\Scripts\Sun.cs" />
     <Compile Include="Assets\Scripts\Teleporter.cs" />
+    <Compile Include="Assets\Scripts\WindStrength.cs" />
+    <Compile Include="Assets\Scripts\WindZoneColor.cs" />
     <Compile Include="Assets\Wrld\API\Api.cs" />
     <Compile Include="Assets\Wrld\API\WrldMap.cs" />
     <Compile Include="Assets\Wrld\Demo\Buildings\Scripts\BuildingAltitudePicking.cs" />
