@@ -59,6 +59,10 @@ ModelImporter:
     2100042: buildings_01_001__London_wallDiffuse_png
     2100044: landmark_gb_ldn_fenchurch_Buildings_4_20223323222133_landmark_g__fenchurch_png
     2100046: buildings_01_002__London_wallDiffuse_png
+    2100048: SideWalkMaterial__Tint
+    2100050: AsphaltMaterial__Tint
+    2100052: SideWalkBorderMaterial__Tint
+    2100054: Base__Tint
     2300000: 2D_Map
     2300002: Buildings
     2300004: Circle
