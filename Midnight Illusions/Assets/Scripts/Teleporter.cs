@@ -1,9 +1,12 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 
 public class Teleporter : MonoBehaviour
 {
     // How long the user can gaze at this before the button is clicked.
     public float timerDuration = 3f;
+
+    public Image timerImage;
 
     // Count time the player has been gazing at the button.
     private float lookTimer = 0f;
@@ -23,13 +26,17 @@ public class Teleporter : MonoBehaviour
                 else
                 {
                     lookTimer += Time.deltaTime;
+                    timerImage.GetComponent<Image>().fillAmount = lookTimer / timerDuration;
 
                     if (lookTimer > timerDuration)
                         Teleport(hit);
                 }
             }
             else
+            {
                 lookTimer = 0;
+                timerImage.GetComponent<Image>().fillAmount = 0;
+            }
         }
     }
     private void Teleport(RaycastHit hit)

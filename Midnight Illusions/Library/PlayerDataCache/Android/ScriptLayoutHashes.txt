@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/Heiner/Documents/Proyectos/LondonIllusions/Midnight Illusions/Build/Midnight Illusions 2.apk
+C:/Users/Heiner/Documents/Proyectos/LondonIllusions/Midnight Illusions/Build/Midnight Illusions.apk
 SceneListBegin?
 Assets/Scenes/Main.unity
 SceneListEnd?
@@ -30,7 +30,7 @@ e233d1c5f4779b563724f49ce957b012 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 5f9ff1002f1ae42f8574a1fa3432548d Assembly-CSharp-firstpass.dll:UnityStandardAssets.Characters.FirstPerson.FirstPersonController
 f6637497451c9a030c421de4a1ad5cdb Unity.TextMeshPro.dll:TMPro.TMP_ScrollbarEventHandler
 85bdc37a4af01b3cd6b364a34dcd70fa Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.ExplosionPhysicsForce
-e8ec91126e9a33bb9b101c3f3bfd6656 Assembly-CSharp.dll:.Teleporter
+a41a219afe5e50a6146397cb64f15661 Assembly-CSharp.dll:.Teleporter
 89a8cb42ed712b9c386b5599487cd810 Assembly-CSharp.dll:.SelectingBuildings
 8f93321b5b48b5e5b24823c2736a1020 Assembly-CSharp.dll:.OVRDebugHeadController
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.HighlightingBuildings
@@ -141,6 +141,7 @@ da21fc3f8056b1f91c3dd09c7bf4f90a UnityEngine.Networking.dll:UnityEngine.Networki
 fc061f3ae8a876c0687e86378d4a447c UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 7ca56e063bd071986fff4f513cc4f477 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 e7489514a648ce787e3e741d97e0f561 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.WaypointProgressTracker
+ad9b27ab2e93e75afa8b9fc758dc95d9 Assembly-CSharp.dll:.WindZoneColor
 db3e79d022f6e2666383026000e549ff Assembly-CSharp.dll:.RotateWithMouseOnDesktop
 0a006f3734181ba8b26758f0866152c0 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.MovingBetweenFloors
@@ -266,6 +267,7 @@ d1e8ed93b5353b4bdbd86d474ab618b5 Assembly-CSharp.dll:UnityEngine.EventSystems.OV
 e7264fa9ee3a8a07bb0d50abc40c07a0 Assembly-CSharp.dll:.OVRGrabber
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.UpdatingBuildingHighlightColor
 63b1d9ebe2d595f39b6b7350000aa0e6 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.Explosive
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.LineStrip
 e04611b8715e6833d2bd7010fc6be10b Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:Wrld.Resources.IndoorMaps.IndoorMapHighlightRenderable
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.ConditionallyPreventCameraMovement
@@ -274,6 +276,7 @@ e04611b8715e6833d2bd7010fc6be10b Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 9318334b30e9f195f573b2ce00154b95 Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.FPSCounter
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.EnterExitIndoorMap
+6c90ace6dd9724fd7a442c9358b8c30e Assembly-CSharp.dll:.WindStrength
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.PickingBuildings
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.EndProgram
 93307bd34e39d73fd24e00ec39c25a91 Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
