@@ -19,6 +19,13 @@ ModelImporter:
     100026: 4
     100028: Coordinates
     100030: Buildings_7_20223323222133_buildings_01_INDEX0
+    100032: 1_001
+    100034: Buildings_3_20223323222133_landmark_gb_ldn_gherkin_INDEX0
+    100036: Bishhopgate
+    100038: Texts
+    100040: Saint_Mary_Axe
+    100042: Cornhill
+    100044: Leadenhall_St
     400000: 2D_Map
     400002: Buildings
     400004: Circle
@@ -35,6 +42,13 @@ ModelImporter:
     400026: 4
     400028: Coordinates
     400030: Buildings_7_20223323222133_buildings_01_INDEX0
+    400032: 1_001
+    400034: Buildings_3_20223323222133_landmark_gb_ldn_gherkin_INDEX0
+    400036: Bishhopgate
+    400038: Texts
+    400040: Saint_Mary_Axe
+    400042: Cornhill
+    400044: Leadenhall_St
     2100000: unnamed
     2100002: roofterrain_Buildings__roofterrain_png
     2100004: buildings__London_wallDiffuse_png
@@ -63,6 +77,12 @@ ModelImporter:
     2100050: AsphaltMaterial__Tint
     2100052: SideWalkBorderMaterial__Tint
     2100054: Base__Tint
+    2100056: Base__SideWalk_jpg
+    2100058: buildings_01_003__London_wallDiffuse_png
+    2100060: landmark_gb_ldn_gherkin_Buildings_3_20223323222133_landmark_000
+    2100062: Material_001
+    2100064: TestMaterial
+    2100066: TextMaterial
     2300000: 2D_Map
     2300002: Buildings
     2300004: Circle
@@ -76,6 +96,12 @@ ModelImporter:
     2300020: 3
     2300022: 4
     2300024: Buildings_7_20223323222133_buildings_01_INDEX0
+    2300026: 1_001
+    2300028: Buildings_3_20223323222133_landmark_gb_ldn_gherkin_INDEX0
+    2300030: Bishhopgate
+    2300032: Saint_Mary_Axe
+    2300034: Cornhill
+    2300036: Leadenhall_St
     3300000: 2D_Map
     3300002: Buildings
     3300004: Circle
@@ -89,6 +115,12 @@ ModelImporter:
     3300020: 3
     3300022: 4
     3300024: Buildings_7_20223323222133_buildings_01_INDEX0
+    3300026: 1_001
+    3300028: Buildings_3_20223323222133_landmark_gb_ldn_gherkin_INDEX0
+    3300030: Bishhopgate
+    3300032: Saint_Mary_Axe
+    3300034: Cornhill
+    3300036: Leadenhall_St
     4300000: Circle
     4300002: Buildings
     4300004: 2D_Map
@@ -102,6 +134,12 @@ ModelImporter:
     4300020: 2
     4300022: 1
     4300024: Buildings_7_20223323222133_buildings_01_INDEX0
+    4300026: 1_001
+    4300028: Buildings_3_20223323222133_landmark_gb_ldn_gherkin_INDEX0
+    4300030: Bishhopgate
+    4300032: Saint_Mary_Axe
+    4300034: Leadenhall_St
+    4300036: Cornhill
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs

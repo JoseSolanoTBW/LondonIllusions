@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/Heiner/Documents/Proyectos/LondonIllusions/Midnight Illusions/Build/Midnight Illusions.apk
+C:/Users/Heiner/Documents/Proyectos/LondonIllusions/Midnight Illusions/Build/RWDI UK VR.apk
 SceneListBegin?
 Assets/Scenes/Main.unity
 SceneListEnd?
