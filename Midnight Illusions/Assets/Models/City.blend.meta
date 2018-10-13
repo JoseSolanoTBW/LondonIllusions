@@ -26,6 +26,9 @@ ModelImporter:
     100040: Saint_Mary_Axe
     100042: Cornhill
     100044: Leadenhall_St
+    100046: Leadenhall_St_001
+    100048: Bishhopgate_2
+    100050: Leadenhall_St_2
     400000: 2D_Map
     400002: Buildings
     400004: Circle
@@ -49,6 +52,9 @@ ModelImporter:
     400040: Saint_Mary_Axe
     400042: Cornhill
     400044: Leadenhall_St
+    400046: Leadenhall_St_001
+    400048: Bishhopgate_2
+    400050: Leadenhall_St_2
     2100000: unnamed
     2100002: roofterrain_Buildings__roofterrain_png
     2100004: buildings__London_wallDiffuse_png
@@ -102,6 +108,9 @@ ModelImporter:
     2300032: Saint_Mary_Axe
     2300034: Cornhill
     2300036: Leadenhall_St
+    2300038: Leadenhall_St_001
+    2300040: Bishhopgate_2
+    2300042: Leadenhall_St_2
     3300000: 2D_Map
     3300002: Buildings
     3300004: Circle
@@ -121,6 +130,9 @@ ModelImporter:
     3300032: Saint_Mary_Axe
     3300034: Cornhill
     3300036: Leadenhall_St
+    3300038: Leadenhall_St_001
+    3300040: Bishhopgate_2
+    3300042: Leadenhall_St_2
     4300000: Circle
     4300002: Buildings
     4300004: 2D_Map
@@ -140,6 +152,9 @@ ModelImporter:
     4300032: Saint_Mary_Axe
     4300034: Leadenhall_St
     4300036: Cornhill
+    4300038: Leadenhall_St_001
+    4300040: Bishhopgate_2
+    4300042: Leadenhall_St_2
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs
