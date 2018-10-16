@@ -50,7 +50,7 @@ public class WindStrength : MonoBehaviour
                 var windZoneColor = collider.GetComponent<WindZoneColor>();
                 particle.startColor = windZoneColor.color;
 
-                particle.velocity = new Vector3(windZoneColor.particleVelocity, 0);
+                //particle.velocity = new Vector3(windZoneColor.particleVelocity, 0);
             }
             enterParticles[i] = particle;
         }

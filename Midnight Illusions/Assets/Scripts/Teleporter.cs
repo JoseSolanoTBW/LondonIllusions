@@ -5,8 +5,8 @@ public class Teleporter : MonoBehaviour
 {
     // How long the user can gaze at this before the button is clicked.
     public float timerDuration = 3f;
-
     public Image timerImage;
+    public Transform homeDestination;
 
     // Count time the player has been gazing at the button.
     private float lookTimer = 0f;
@@ -39,10 +39,17 @@ public class Teleporter : MonoBehaviour
             }
         }
     }
+
     private void Teleport(RaycastHit hit)
     {
         lookTimer = 0;
+
         Transform destination = hit.collider.transform.Find("Destination");
-        transform.parent.parent.position = new Vector3(destination.position.x, transform.parent.parent.position.y, destination.position.z);
+
+        if (destination == null)
+            destination = homeDestination;
+
+        transform.parent.parent.parent.position = new Vector3(destination.position.x, transform.parent.parent.parent.position.y, destination.position.z);
+        transform.parent.parent.parent.rotation = Quaternion.Euler(destination.rotation.x, destination.rotation.y, destination.rotation.z);
     }
 }
