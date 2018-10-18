@@ -115,6 +115,9 @@ ModelImporter:
     2100094: Material_2_000
     2100096: Material_001__London_wallDiffuse_png
     2100098: Material_001__Default_Color_001
+    2100100: Material_001__fenchurch_png
+    2100102: AsphaltMaterial__roofterrain_png
+    2100104: SideWalkBorderMaterial__roofterrain_png
     2300000: 2D_Map
     2300002: Buildings
     2300004: Circle
@@ -271,7 +274,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
