@@ -1036,3 +1036,4 @@ C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\obj\Debug
 C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\obj\Debug\Assembly-CSharp-Editor.csproj.CopyComplete
 C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\obj\Debug\Assembly-CSharp-Editor.dll
 C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\Temp\bin\Debug\Google.ProtocolBuffers.dll

@@ -511,3 +511,6 @@ C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\obj\Debug
 C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\obj\Debug\Assembly-CSharp-firstpass.csproj.CopyComplete
 C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\obj\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\Temp\bin\Debug\Google.ProtocolBuffers.dll
+C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\Temp\bin\Debug\UnityEditor.UI.xml

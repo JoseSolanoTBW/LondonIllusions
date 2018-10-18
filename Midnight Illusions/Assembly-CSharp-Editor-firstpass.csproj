@@ -332,6 +332,9 @@
     <Reference Include="UnityFbxSdk">
       <HintPath>C:/Users/Heiner/Documents/Proyectos/LondonIllusions/Midnight Illusions/Assets/FbxExporters/Editor/FbxSdk/Plugins/UnityFbxSdk.dll</HintPath>
     </Reference>
+    <Reference Include="Google.ProtocolBuffers">
+      <HintPath>C:/Users/Heiner/Documents/Proyectos/LondonIllusions/Midnight Illusions/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>C:/Users/Heiner/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>

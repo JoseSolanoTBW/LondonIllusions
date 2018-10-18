@@ -333,6 +333,9 @@
     <Reference Include="UnityFbxPrefab">
       <HintPath>C:/Users/Heiner/Documents/Proyectos/LondonIllusions/Midnight Illusions/Assets/FbxExporters/UnityFbxPrefab.dll</HintPath>
     </Reference>
+    <Reference Include="Google.ProtocolBuffers">
+      <HintPath>C:/Users/Heiner/Documents/Proyectos/LondonIllusions/Midnight Illusions/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.Analytics">
       <HintPath>C:/Users/Heiner/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
     </Reference>

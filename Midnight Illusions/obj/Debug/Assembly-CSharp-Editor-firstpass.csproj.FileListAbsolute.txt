@@ -618,3 +618,4 @@ C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\obj\Debug
 C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.CopyComplete
 C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\obj\Debug\Assembly-CSharp-Editor-firstpass.dll
 C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\obj\Debug\Assembly-CSharp-Editor-firstpass.pdb
+C:\Users\Heiner\Documents\Proyectos\LondonIllusions\Midnight Illusions\Temp\bin\Debug\Google.ProtocolBuffers.dll

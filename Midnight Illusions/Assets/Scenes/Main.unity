@@ -5221,6 +5221,11 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 128
       objectReference: {fileID: 0}
+    - target: {fileID: 114864054094718362, guid: e1f07722eac2e3f4d9e10e5a44c9eafc,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 114177437327763632, guid: e1f07722eac2e3f4d9e10e5a44c9eafc, type: 2}
     - {fileID: 114199540805669200, guid: e1f07722eac2e3f4d9e10e5a44c9eafc, type: 2}
@@ -5787,7 +5792,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e742b8eb38968543a451095bf1bfb40, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ps: {fileID: 0}
+  ps: {fileID: 308391485}
 --- !u!1 &897933474
 GameObject:
   m_ObjectHideFlags: 0
@@ -5887,7 +5892,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1124961628}
-  m_LocalRotation: {x: 0.30994257, y: 0.68914485, z: 0.48401272, w: -0.44130108}
+  m_LocalRotation: {x: 0.07258876, y: 0.75224936, z: -0.08407887, w: 0.6494479}
   m_LocalPosition: {x: -116.536026, y: 10.23, z: -4.399448}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -5904,7 +5909,7 @@ Light:
   serializedVersion: 8
   m_Type: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0
+  m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -5944,8 +5949,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   longitude: 51.513416
   latitude: -0.084063
-  hour: 13
-  minutes: 7
+  hour: 21
+  minutes: 11
   timeSpeed: 0.1
   frameSteps: 1
 --- !u!4 &1203138406 stripped

@@ -31,6 +31,9 @@ ModelImporter:
     100050: Leadenhall_St_2
     100052: Bishopsgate
     100054: Bishopsgate_2
+    100056: 100_Bishopsgate
+    100058: 20_Bishopsgate
+    100060: Object_59
     400000: 2D_Map
     400002: Buildings
     400004: Circle
@@ -59,6 +62,9 @@ ModelImporter:
     400050: Leadenhall_St_2
     400052: Bishopsgate
     400054: Bishopsgate_2
+    400056: 100_Bishopsgate
+    400058: 20_Bishopsgate
+    400060: Object_59
     2100000: unnamed
     2100002: roofterrain_Buildings__roofterrain_png
     2100004: buildings__London_wallDiffuse_png
@@ -93,6 +99,22 @@ ModelImporter:
     2100062: Material_001
     2100064: TestMaterial
     2100066: TextMaterial
+    2100068: Material_2_001
+    2100070: Material_2_001__Default_Color
+    2100072: roofterrain_Buildings__London_wallDiffuse_png
+    2100074: Material_2_001__Default_Color_001
+    2100076: Material_2_001__20_Bioshopsgate
+    2100078: Material_2_001__100_Bioshopsgate
+    2100080: leadenhall_Buildings__London_wallDiffuse_png
+    2100082: bloomberg01_Buildings__London_wallDiffuse_png
+    2100084: walbrook_Buildings__London_wallDiffuse_png
+    2100086: tower42_Buildings__London_wallDiffuse_png
+    2100088: gherkin_Buildings__London_wallDiffuse_png
+    2100090: Material_2_001__fenchurch_png
+    2100092: Material_2_001__London_wallDiffuse_png
+    2100094: Material_2_000
+    2100096: Material_001__London_wallDiffuse_png
+    2100098: Material_001__Default_Color_001
     2300000: 2D_Map
     2300002: Buildings
     2300004: Circle
@@ -117,6 +139,9 @@ ModelImporter:
     2300042: Leadenhall_St_2
     2300044: Bishopsgate
     2300046: Bishopsgate_2
+    2300048: 100_Bishopsgate
+    2300050: 20_Bishopsgate
+    2300052: Object_59
     3300000: 2D_Map
     3300002: Buildings
     3300004: Circle
@@ -141,6 +166,9 @@ ModelImporter:
     3300042: Leadenhall_St_2
     3300044: Bishopsgate
     3300046: Bishopsgate_2
+    3300048: 100_Bishopsgate
+    3300050: 20_Bishopsgate
+    3300052: Object_59
     4300000: Circle
     4300002: Buildings
     4300004: 2D_Map
@@ -165,6 +193,9 @@ ModelImporter:
     4300042: Leadenhall_St_2
     4300044: Bishopsgate_2
     4300046: Bishopsgate
+    4300048: 100_Bishopsgate
+    4300050: 20_Bishopsgate
+    4300052: Object_59
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs

@@ -21,7 +21,8 @@ public class Teleporter : MonoBehaviour
         {
             if (hit.collider.tag == "Teleport")
             {
-                if (OVRInput.GetDown(OVRInput.Button.One) || Input.GetMouseButtonDown(0) || Input.GetButtonDown("Fire1"))
+                
+                if (GvrControllerInput.ClickButtonDown || Input.GetMouseButtonDown(0) || Input.GetButtonDown("Fire1"))
                     Teleport(hit);
                 else
                 {
@@ -38,6 +39,9 @@ public class Teleporter : MonoBehaviour
                 timerImage.GetComponent<Image>().fillAmount = 0;
             }
         }
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+            Application.Quit();
     }
 
     private void Teleport(RaycastHit hit)
