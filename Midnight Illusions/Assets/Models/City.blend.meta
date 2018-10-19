@@ -118,6 +118,10 @@ ModelImporter:
     2100100: Material_001__fenchurch_png
     2100102: AsphaltMaterial__roofterrain_png
     2100104: SideWalkBorderMaterial__roofterrain_png
+    2100106: buildings__leadenhall_png
+    2100108: buildings_01_001__leadenhall_png
+    2100110: buildings__London_wallDiffuse_png_001
+    2100112: buildings_01_001__London_wallDiffuse_png_001
     2300000: 2D_Map
     2300002: Buildings
     2300004: Circle

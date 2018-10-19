@@ -76,18 +76,6 @@
     <Compile Include="Assets\GoogleVR\Editor\GvrEditorMenu.cs" />
     <Compile Include="Assets\GoogleVR\Editor\GvrEditorSettings.cs" />
     <Compile Include="Assets\Oculus\VR\Scripts\Editor\OVRManagerEditor.cs" />
-    <Compile Include="Assets\Wrld\Editor\ActiveBuildTargetChangedListener.cs" />
-    <Compile Include="Assets\Wrld\Editor\BuildSucceededListener.cs" />
-    <Compile Include="Assets\Wrld\Editor\CameraJumpEditor.cs" />
-    <Compile Include="Assets\Wrld\Editor\CopyPlatformResources.cs" />
-    <Compile Include="Assets\Wrld\Editor\ExitPlayModeOnScriptCompile.cs" />
-    <Compile Include="Assets\Wrld\Editor\FirstInstallActionsRunner.cs" />
-    <Compile Include="Assets\Wrld\Editor\PlatformHelpers.cs" />
-    <Compile Include="Assets\Wrld\Editor\WillPlayInEditorListener.cs" />
-    <Compile Include="Assets\Wrld\Editor\WrldStartupEditor.cs" />
-    <Compile Include="Assets\Wrld\Editor\XcodeProjectUpdater.cs" />
-    <None Include="Assets\FbxExporters\Editor\FbxSdk\LICENSE.txt" />
-    <None Include="Assets\FbxExporters\Editor\FbxSdk\README.txt" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Heiner/Documents/Proyectos/LondonIllusions/Midnight Illusions/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
@@ -348,15 +336,6 @@
     </Reference>
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityFbxPrefab">
-      <HintPath>C:/Users/Heiner/Documents/Proyectos/LondonIllusions/Midnight Illusions/Assets/FbxExporters/UnityFbxPrefab.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityFbxExporterEditor">
-      <HintPath>C:/Users/Heiner/Documents/Proyectos/LondonIllusions/Midnight Illusions/Assets/FbxExporters/Editor/UnityFbxExporterEditor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityFbxSdk">
-      <HintPath>C:/Users/Heiner/Documents/Proyectos/LondonIllusions/Midnight Illusions/Assets/FbxExporters/Editor/FbxSdk/Plugins/UnityFbxSdk.dll</HintPath>
     </Reference>
     <Reference Include="Google.ProtocolBuffers">
       <HintPath>C:/Users/Heiner/Documents/Proyectos/LondonIllusions/Midnight Illusions/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>
